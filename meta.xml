@@ -1,0 +1,6 @@
+<meta>
+    <info name="script" author="KING-ABADY" description="infohtml" version="0.1" type="script"></info>
+    <script src="c.lua" type="client"></script>
+  <file src="index.html" />
+  <file src="k3.woff2" />
+</meta>
